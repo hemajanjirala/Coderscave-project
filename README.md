@@ -48,7 +48,8 @@
 
 2. **Time Series Visualization**: Visualizations of daily average wet bulb temperature and daily average dry bulb temperature reveal long-term temperature trends.
 
-3. ![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/126d3766-8293-45b8-a4f3-4c8462adca99)
+![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/e7ac2a5e-edd6-4b39-a2fe-4f4e224aed8a)
+
 
 
 4. **Distribution Analysis**: The distribution of daily average wind speed is analyzed, providing insights into the variability of wind speeds over time.
