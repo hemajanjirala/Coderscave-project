@@ -26,8 +26,6 @@
 
 5. **Relationship Between Sales Volume and Product Categories**: Exploring the relationship between sales volume and product categories helps identify store strategies and areas for improvement.
 
-![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/0299f2cc-4513-4f3e-aa4d-5fa19bca14a0)
-
 6. **Store Performance and Business Strategies**: Considering factors such as physical store size and sales composition by unit offers valuable insights into store performance and potential business strategies.
 
 ### Phase-2: Project on Temperature Variations Over Consecutive Days at Specified Intervals
