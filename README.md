@@ -25,10 +25,12 @@
 4. **Customer Segmentation by Product Categories**: Different stores attract distinct clienteles based on the product categories they offer, indicating the need for tailored marketing strategies.
 
 5. **Sales Composition by Category**: Analyzing sales by the number of units sold per category reveals varying dominance across stores, influencing overall sales composition.
+6. ![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/a909f06e-76b4-4004-815a-866731020184)
 
-6. **Relationship Between Sales Volume and Product Categories**: Exploring the relationship between sales volume and product categories helps identify store strategies and areas for improvement.
 
-7. **Store Performance and Business Strategies**: Considering factors such as physical store size and sales composition by unit offers valuable insights into store performance and potential business strategies.
+7. **Relationship Between Sales Volume and Product Categories**: Exploring the relationship between sales volume and product categories helps identify store strategies and areas for improvement.
+
+8. **Store Performance and Business Strategies**: Considering factors such as physical store size and sales composition by unit offers valuable insights into store performance and potential business strategies.
 
 ### Phase-2: Project on Temperature Variations Over Consecutive Days at Specified Intervals
 
