@@ -55,7 +55,8 @@
 4. **Distribution Analysis**: The distribution of daily average wind speed is analyzed, providing insights into the variability of wind speeds over time.
 
 5. **Wind Direction Identification**: The prevailing wind direction is identified by visualizing the value counts of daily peak wind direction, aiding in understanding wind patterns.
-6. ![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/36d9abff-4582-484f-b285-2cae201306a5)
+6. ![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/d98c670e-fa5f-4586-adda-9c53a9ecd9f2)
+
 
 
 7. **Exploring Time Patterns and Relationships**: Time patterns, distributions, and relationships between variables are explored using merges, aggregations, and visualizations, uncovering insights into climatic trends and phenomena.
