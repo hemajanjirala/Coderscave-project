@@ -35,12 +35,14 @@
 1. **Data Integration**: Combine multiple data files containing temperature data at different intervals (daily, hourly, monthly, etc.) into a single DataFrame to enable comprehensive analysis.
 
 2. **Time Series Visualization**: Visualize temperature variations over time, focusing on daily average wet bulb temperature and daily average dry bulb temperature to understand long-term trends.
+3. ![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/43230cb3-4959-42db-b997-54ee96723083)
 
-3. **Distribution Analysis**: Analyze the distribution of daily average wind speed to understand the variability and typical range of wind speeds over the observed period.
 
-4. **Wind Direction Identification**: Identify the prevailing wind direction by visualizing the value counts of daily peak wind direction, providing insights into wind patterns.
+4. **Distribution Analysis**: Analyze the distribution of daily average wind speed to understand the variability and typical range of wind speeds over the observed period.
 
-5. **Exploring Time Patterns and Relationships**: Explore time patterns, distributions, and relationships between variables (e.g., temperature, wind speed, wind direction) using merges, aggregations, and visualizations to uncover insights into climatic trends and phenomena.
+5. **Wind Direction Identification**: Identify the prevailing wind direction by visualizing the value counts of daily peak wind direction, providing insights into wind patterns.
+
+6. **Exploring Time Patterns and Relationships**: Explore time patterns, distributions, and relationships between variables (e.g., temperature, wind speed, wind direction) using merges, aggregations, and visualizations to uncover insights into climatic trends and phenomena.
 
 **Conclusions:**
 
