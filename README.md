@@ -35,14 +35,12 @@
 1. **Data Integration**: Combine multiple data files containing temperature data at different intervals (daily, hourly, monthly, etc.) into a single DataFrame to enable comprehensive analysis.
 
 2. **Time Series Visualization**: Visualize temperature variations over time, focusing on daily average wet bulb temperature and daily average dry bulb temperature to understand long-term trends.
-3. ![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/43230cb3-4959-42db-b997-54ee96723083)
+  
+3. **Distribution Analysis**: Analyze the distribution of daily average wind speed to understand the variability and typical range of wind speeds over the observed period.
 
+4. **Wind Direction Identification**: Identify the prevailing wind direction by visualizing the value counts of daily peak wind direction, providing insights into wind patterns.
 
-4. **Distribution Analysis**: Analyze the distribution of daily average wind speed to understand the variability and typical range of wind speeds over the observed period.
-
-5. **Wind Direction Identification**: Identify the prevailing wind direction by visualizing the value counts of daily peak wind direction, providing insights into wind patterns.
-
-6. **Exploring Time Patterns and Relationships**: Explore time patterns, distributions, and relationships between variables (e.g., temperature, wind speed, wind direction) using merges, aggregations, and visualizations to uncover insights into climatic trends and phenomena.
+5. **Exploring Time Patterns and Relationships**: Explore time patterns, distributions, and relationships between variables (e.g., temperature, wind speed, wind direction) using merges, aggregations, and visualizations to uncover insights into climatic trends and phenomena.
 
 **Conclusions:**
 
@@ -50,12 +48,14 @@
 
 2. **Time Series Visualization**: Visualizations of daily average wet bulb temperature and daily average dry bulb temperature reveal long-term temperature trends.
 
-3. **Distribution Analysis**: The distribution of daily average wind speed is analyzed, providing insights into the variability of wind speeds over time.
+3. ![image](https://github.com/hemajanjirala/Coderscave-project/assets/158252014/126d3766-8293-45b8-a4f3-4c8462adca99)
 
-4. **Wind Direction Identification**: The prevailing wind direction is identified by visualizing the value counts of daily peak wind direction, aiding in understanding wind patterns.
 
-5. **Exploring Time Patterns and Relationships**: Time patterns, distributions, and relationships between variables are explored using merges, aggregations, and visualizations, uncovering insights into climatic trends and phenomena.
-6.
+4. **Distribution Analysis**: The distribution of daily average wind speed is analyzed, providing insights into the variability of wind speeds over time.
+
+5. **Wind Direction Identification**: The prevailing wind direction is identified by visualizing the value counts of daily peak wind direction, aiding in understanding wind patterns.
+
+6. **Exploring Time Patterns and Relationships**: Time patterns, distributions, and relationships between variables are explored using merges, aggregations, and visualizations, uncovering insights into climatic trends and phenomena.
 7.
 8.
 9.
@@ -63,7 +63,8 @@
 11.
 12.
 13.
-14. ### Phase-1: Analysis of Sales Store Transactions:
+14.
+15. ### Phase-1: Analysis of Sales Store Transactions:
 1. Stores 7, 9, 5, 2, and 4 stand out for their high total sales over a three-month period.
 2. Analyzing daily sales reveals a different perspective: Stores 9, 8, 4, 6, and 2 have the highest average daily sales.
 3. Different stores cater to distinct clienteles based on product categories like cleaning products, pantry items, and snacks.
